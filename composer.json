@@ -1,5 +1,5 @@
 {
-    "name": "jomweb/billplz",
+    "name": "jowmeb/billplz",
     "description": "PHP Agnostic library for working with BillPlz API",
     "type": "library",
     "keyword": ["Billplz", "Payment Gateway"],
